@@ -1,0 +1,13 @@
+agno
+mistralai
+streamlit
+python-dotenv
+pydantic
+pymupdf
+python-docx
+scikit-learn
+numpy
+fastapi
+uvicorn[standard]
+python-multipart
+pypdf
