@@ -6,7 +6,7 @@ services:
 
     buildCommand: pip install -r requirements.txt
 
-    startCommand: streamlit run app.py --server.address 0.0.0.0 --server.port $PORT
+    startCommand: streamlit run main.py --server.address 0.0.0.0 --server.port $PORT
 
     envVars:
       - key: PYTHON_VERSION
