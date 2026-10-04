@@ -1,5 +1,4 @@
 agno
-mistralai
 streamlit
 python-dotenv
 pydantic
@@ -11,3 +10,5 @@ fastapi
 uvicorn[standard]
 python-multipart
 pypdf
+google-genai
+PyPDF2
